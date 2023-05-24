@@ -2,8 +2,8 @@ Agenda Eletronica integrada com o banco de dados Mysql. O projeto possuí as seg
 
 Classe Contato
 - Possui os atributos nome, idade, id, dataCadastro
-- O atributo ID deve ser gerado automático 
-- O atributo dataCadastro deve ser gerado autómatico
+- O atributo ID é gerado automático 
+- O atributo dataCadastro é gerado autómatico
 - Metódos GET para todos os atributos
 - Metódos SET para todos os atributos
 
